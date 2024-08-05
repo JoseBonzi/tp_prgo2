@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\servicio\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\servicio\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\datos\\implementacion\\facturasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\datos\\implementacion\\facturasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF133D1-D3B7-410F-AFFC-97F4522F49E8}|APIFarmacia\\APIFarmacia.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\apifarmacia\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF133D1-D3B7-410F-AFFC-97F4522F49E8}|APIFarmacia\\APIFarmacia.csproj|solutionrelative:apifarmacia\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\datos\\implementacion\\lotesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\datos\\implementacion\\lotesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\datos\\implementacion\\detallesfacturadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\datos\\implementacion\\detallesfacturadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF693AA0-FE91-4334-BED4-1A71634AAAC9}|Frontend\\Frontend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\frontend\\presentaciones 2\\facturaciones\\frmfacturaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF693AA0-FE91-4334-BED4-1A71634AAAC9}|Frontend\\Frontend.csproj|solutionrelative:frontend\\presentaciones 2\\facturaciones\\frmfacturaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\datos\\implementacion\\productosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\datos\\implementacion\\productosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|c:\\users\\jose_\\prog ii\\tp_prog2_rami\\tp_progra-main\\proyecto\\backend\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C784160-AFFD-4BFE-95F9-B1D5F73FD0CF}|Backend\\Backend.csproj|solutionrelative:backend\\entidades\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Backend\\Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Backend\\Datos\\AccesoDatos.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAIMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:15:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Servicio\\Servicios.cs",
+              "RelativeDocumentMoniker": "Backend\\Servicio\\Servicios.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Servicio\\Servicios.cs",
+              "RelativeToolTip": "Backend\\Servicio\\Servicios.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:15:01.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetallesFacturaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\DetallesFacturaDAO.cs",
+              "RelativeDocumentMoniker": "Backend\\Datos\\Implementacion\\DetallesFacturaDAO.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\DetallesFacturaDAO.cs",
+              "RelativeToolTip": "Backend\\Datos\\Implementacion\\DetallesFacturaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LotesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\LotesDAO.cs",
+              "RelativeDocumentMoniker": "Backend\\Datos\\Implementacion\\LotesDAO.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\LotesDAO.cs",
+              "RelativeToolTip": "Backend\\Datos\\Implementacion\\LotesDAO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\APIFarmacia\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "APIFarmacia\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\APIFarmacia\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "APIFarmacia\\Controllers\\FacturasController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwE4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturasDAO.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\FacturasDAO.cs",
+              "RelativeDocumentMoniker": "Backend\\Datos\\Implementacion\\FacturasDAO.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\FacturasDAO.cs",
+              "RelativeToolTip": "Backend\\Datos\\Implementacion\\FacturasDAO.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAewCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFacturaciones.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Frontend\\Presentaciones 2\\Facturaciones\\FrmFacturaciones.cs",
+              "RelativeDocumentMoniker": "Frontend\\Presentaciones 2\\Facturaciones\\FrmFacturaciones.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Frontend\\Presentaciones 2\\Facturaciones\\FrmFacturaciones.cs",
+              "RelativeToolTip": "Frontend\\Presentaciones 2\\Facturaciones\\FrmFacturaciones.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAMwC8BAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Entidades\\Facturas.cs",
+              "RelativeDocumentMoniker": "Backend\\Entidades\\Facturas.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Entidades\\Facturas.cs",
+              "RelativeToolTip": "Backend\\Entidades\\Facturas.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBIAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\ProductosDAO.cs",
+              "RelativeDocumentMoniker": "Backend\\Datos\\Implementacion\\ProductosDAO.cs",
+              "ToolTip": "C:\\Users\\jose_\\Prog II\\tp_prog2_Rami\\TP_Progra-main\\Proyecto\\Backend\\Datos\\Implementacion\\ProductosDAO.cs",
+              "RelativeToolTip": "Backend\\Datos\\Implementacion\\ProductosDAO.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAuwKwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:13:41.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
